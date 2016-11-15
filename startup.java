@@ -1,7 +1,7 @@
  /*****************************************************\
 ||-------Project 'C' Is Owned by: The 2nd Player-------||
 ||---Lead Developer & Project Manager: Austin Muller---||
-||-----Beta Testers:(I will put a link here later)-----||
+||-----Beta Testers:( currently don't have a link. )-----||
  \*****************************************************/
 
 public class StartUp 
