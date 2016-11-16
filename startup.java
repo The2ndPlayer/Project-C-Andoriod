@@ -9,7 +9,7 @@ public class StartUp
   public static void main(String[] args)
   {
    string welcome = "Welcome to the Developement version of Project C for Java";
-   string m2 = "If you are here aren't a tester and you managed to compile and start this app";
+   string m2 = "If you are here and aren't a tester and you managed to compile and start this app";
    string m3 = "good job!";
    string m4 = "Please remeber that this proududct is under the MIT licence";
 
